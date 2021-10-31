@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<!--
+  ~ This software has been provided to provide sample code and to aid
+  ~ the software engineering community. It is published under the MIT
+  ~ license. You are welcome to use the code, but please do not take
+  ~ credit for my work.
+  ~
+  ~ Author: DenalidTX
+  ~ Twitter: @DenalidTX
+  ~ Twitch: https://www.twitch.tv/denalidtx
+  -->
+
+<AnchorPane xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.denalidtx.samples.jpms.javafx.controller.GUIController">
+   <children>
+      <Label alignment="CENTER" layoutX="355.0" layoutY="103.0" text="Hello, World!" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0" />
+   </children>
+</AnchorPane>
